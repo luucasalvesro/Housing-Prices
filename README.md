@@ -1,2 +1,2 @@
-# Housing Prices Forecast
-Basic house price forecast made for python class
+# California Housing Prices Forecast
+Basic housing price forecast made for python class
